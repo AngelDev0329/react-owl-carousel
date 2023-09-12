@@ -1,3 +1,9 @@
+---
+Using UNSAFE_componentWillReceiveProps in strict mode is not recommended and may indicate bugs in your code.
+![Screen Shot 2023-09-12 at 9 38 30 PM](https://github.com/AngelDev0329/react-owl-carousel/assets/54489723/108a9c60-3561-4c08-b17d-7108a993ca82)
+
+---
+
 # react-owl-carousel [![npm version](https://img.shields.io/npm/v/react-owl-carousel.svg?style=flat)](https://www.npmjs.com/package/react-owl-carousel)
 
 [React](http://facebook.github.io/react/) + [Owl Carousel 2.3](https://owlcarousel2.github.io/OwlCarousel2/)
